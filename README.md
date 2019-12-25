@@ -7,16 +7,16 @@ El proyecto se desarrolla totalmente en el lenguaje Python 2.7 y en un entorno d
 
 Las herramientas que se desarrollan son:
 
-•	awdp_ad_users.py		Auditoría de cuentas de usuarios de un Active Directory
-•	awdp_ad_computers.py	Auditoría de cuentas de dispositivos de un Active Directory
-•	awdp_ad_groups.py		Auditoría de grupos de un Active Directory
-•	awdp_ad_smb.py		Enumeración de recursos compartidos
-•	awdp_ad_smb_mon.py		Monitorización de recursos compartidos
-•	awdp_stolen_mail.py		Busca si una cuenta de correo ha sido comprometido o robado.
-•	awdp_win_attack_dict.py	Auditoría de claves débiles de cuentas de usuarios
-•	awdp_ipublic.py		Devuelve IP pública de una red.
-•	awdp_nmap.py			Descubrimiento de redes.
-•	awdp_services.py		Enumeración de servicios en equipo remoto.
-•	awdp_file_metadata.py	Enumeración de metadatos de documentos.
+* awdp_ad_users.py		Auditoría de cuentas de usuarios de un Active Directory
+* awdp_ad_computers.py	Auditoría de cuentas de dispositivos de un Active Directory
+* awdp_ad_groups.py		Auditoría de grupos de un Active Directory
+* awdp_ad_smb.py		Enumeración de recursos compartidos
+* awdp_ad_smb_mon.py		Monitorización de recursos compartidos
+* awdp_stolen_mail.py		Busca si una cuenta de correo ha sido comprometido o robado.
+* awdp_win_attack_dict.py	Auditoría de claves débiles de cuentas de usuarios
+* awdp_ipublic.py		Devuelve IP pública de una red.
+* awdp_nmap.py			Descubrimiento de redes.
+* awdp_services.py		Enumeración de servicios en equipo remoto.
+* awdp_file_metadata.py	Enumeración de metadatos de documentos.
 
 Por último, se comprueba estas herramientas en una red compuesta por los servidores Windows Server 2016 y 2003 y los clientes Windows 10, y Windows XP. 
