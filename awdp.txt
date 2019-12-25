@@ -1,0 +1,18 @@
+
+
+
+
+awdp_ad_computers.py	- Muestra datos de los computadores de un Active Directory.
+			  Dispositivos sin fecha caducidad o sin uso.
+
+awdp_ad_groups.py	- Muesta los miembros que hay en cada grupo para comprobar
+			  que las cuentas están en los grupos que le corresponden.
+
+awdp_smb_mon.py		- Permite monitorizar un recurso compartido mostrando únicamente
+			  los ficheros nuevos, util para controlar lo que se comparte.
+
+awdp_ipublic.py		- Muestra la IP pública de una red corporativa. Útil para utilizarla
+			  con shodan y descubrir servidores expuestos en internet.
+
+
+

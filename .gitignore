@@ -1,0 +1,16 @@
+
+awdp_stolen_mail/.idea/
+
+awdp_nmap/.idea/
+
+*.pyc
+
+awdp_ipublic/.idea/
+
+awdp_file_metadata/.idea/
+
+.idea/
+
+awdp_file_metadata/documentos/
+
+awdp_file_metadata/ejemplo1.docx
